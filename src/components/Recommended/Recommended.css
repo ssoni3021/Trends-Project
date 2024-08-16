@@ -1,0 +1,46 @@
+.recommended-container{
+  margin-left: 320px;
+}
+
+.recommended-flex {
+  display: flex;
+  margin-left: 20px; /* Adjusted for better alignment */
+}
+
+.recommended-title {
+  margin-left: 20px; /* Adjusted for better alignment */
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.search {
+  margin-left: 20px; /* Adjusted for better alignment */
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.navbar-button-selected {
+  padding: 10px 20px;
+  margin-right: 6px;
+  border: 0.6px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  background: rgb(181, 180, 180);
+  color: black;
+}
+
+.navbar-button {
+  padding: 10px 20px;
+  margin-right: 6px;
+  background: rgb(38, 37, 37);
+  border: 0.6px solid #ccc;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.navbar-button:hover {
+  background: rgb(134, 184, 245);
+  color: white;
+}

@@ -1,0 +1,26 @@
+.btn-logout {
+    background: none;
+    cursor: pointer;
+    color: #000;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    border: 1 solid black;
+    padding: 8px;
+  }
+
+  .btn-logout:hover {
+    background: none;
+    cursor: pointer;
+    color: #000;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    border: 1 solid black;
+    padding: 8px;
+  }
+  
+  .logout-icon {
+    margin-right: 8px;
+  }
+  
