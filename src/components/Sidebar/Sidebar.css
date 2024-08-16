@@ -1,0 +1,14 @@
+/* src/Sidebar.css */
+
+.sidebar {
+  position: fixed;
+  top: 52px; /* Aligns with the bottom of the header */
+  left: 0;
+  width: 250px;
+  height: calc(100% - 60px); /* Full height minus the header height */
+  background-color: #fff;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  z-index: 999;
+}
+
